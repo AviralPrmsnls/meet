@@ -123,14 +123,14 @@ export default {
           >{{ l.welcome.start }}</a>
         </div>
       </div>
-      <div class="footer links">
+      <!-- <div class="footer links">
         <p>
           FOR WHITELABEL USE WE ASK YOU TO PURCHASE A
           <a href="https://github.com/holtwick/briefing/#commercial-license">
             COMMERCIAL LICENSE
           </a>
         </p>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

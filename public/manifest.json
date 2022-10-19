@@ -1,6 +1,6 @@
 {
-  "name": "Briefing",
-  "short_name": "Briefing",
+  "name": "Permissionless Meet",
+  "short_name": "Permissionless Meet",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -28,7 +28,7 @@
       "src": "https://brie.fi/sample.jpg",
       "type": "image/png",
       "size": "1478x1988",
-      "description": "Screenshot Briefing App"
+      "description": "Screenshot Permissionless Meet App"
     }
   ],
   "features": [

@@ -14,7 +14,7 @@ export const canCopy = !canShare
 export async function shareLink(
   url,
   {
-    title = 'Briefing URL',
+    title = 'Permissionless Meet URL',
     text = 'Please open the link in your browser to join the video conference',
   } = {},
 ) {
